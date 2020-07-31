@@ -1,0 +1,44 @@
+_repo: Loges-et-coulisses_62679
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huret, Jules
+    birthdate: 1864
+    deathdate: 1915
+    gutenberg_agent_id: '49466'
+    url: http://www.gutenberg.org/2009/agents/49466
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jules_Huret
+    - https://en.wikipedia.org/wiki/Jules_Huret
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Chroniques
+- FR Théâtre
+gutenberg_issued: '2020-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62679'
+  lccn: '33019012'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater -- France'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: 'Réjane racontée par elle-même -- Chez Sarah Bernhardt -- L''Interdiction
+  de Thermidor -- Un projet de Révolution au Théâtre Français -- Conversation avec
+  Maurice Maeterlinck -- Sibyl Sanderson -- «Le Capitaine Fracasse» (Deux versions
+  d''une même légende) -- La mise en scène du «Capitaine Fracasse» (Conversation avec
+  M. Porel) -- La nouvelle «Lysistrata» -- Comment M. Sardou devint spirite -- «La
+  loi de l''homme»: quelques propos de M. Paul Hervieu -- Alfred Bruneau -- Sarah
+  Bernhardt en guenilles -- La sensibilité des Comédiens -- La Duse -- Notes biographiques
+  sur la Duse -- Du Maquillage a la Peinture -- Madame Duse a l''ambassade d''Italie
+  -- La Duse devant les Comédiens français -- Quelques lettres sur quelques questions
+  -- Le départ de Réjane -- Un Mariage bien parisien -- Petite enquête sur l''Opéra-Comique
+  -- La ville morte -- Novelli à Paris: Conversation avec M. Jean Aicard -- Jeanne
+  Ludwig -- Emma Calvé -- Sarah -- Réjane -- Coupeau et Gervaise à Belleville.'
+title: Loges et coulisses
+url: http://www.gutenberg.org/ebooks/62679
