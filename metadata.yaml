@@ -1,5 +1,8 @@
 _repo: Loges-et-coulisses_62679
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62679-h/images/cover.jpg
 creator:
   author:
     agent_name: Huret, Jules
@@ -11,6 +14,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jules_Huret
     - https://en.wikipedia.org/wiki/Jules_Huret
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62679#Loges-et-coulisses
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Chroniques
